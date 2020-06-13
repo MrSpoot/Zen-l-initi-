@@ -2,7 +2,6 @@ import game.Game;
 
 /**
  * This class can launch de game
- * @author T.Desormeaux
  */
 public class LaunchGame {
 
