@@ -5,8 +5,6 @@ import java.util.Scanner;
 
 /**
  * This class can create different pawn in this game
- *
- * @author T.Desormeaux
  */
 public class Pawn {
 
