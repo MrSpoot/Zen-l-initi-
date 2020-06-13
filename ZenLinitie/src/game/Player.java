@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 /**
  * This class create and manage player info
- * @author T.Desormeaux
  */
 abstract class Player {
     protected String name;
