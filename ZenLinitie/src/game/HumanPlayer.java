@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 /**
  * This class create and manage a Human player
- * @author T.Desormeaux
  */
 public class HumanPlayer extends Player {
 
