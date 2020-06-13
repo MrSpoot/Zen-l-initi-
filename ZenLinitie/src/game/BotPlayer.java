@@ -4,7 +4,6 @@ import java.util.ArrayList;
 
 /**
  * This class create and manage a BotPlayer
- * @author T.Desormeaux
  */
 public class BotPlayer extends Player {
 
